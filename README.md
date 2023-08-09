@@ -53,3 +53,7 @@ The project is organized into several components, actions, and reducers, followi
 - `App.js`: Main application component that sets up the Redux store and routes.
 
 
+
+
+[Ecommerce React Redex Store.webm](https://github.com/umar8637/Ecommerce-React-Redux-Store/assets/114384219/9f7d7d0d-32a6-4837-b56e-30e23503a472)
+
